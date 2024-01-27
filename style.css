@@ -7,6 +7,15 @@
 display: flex;
 }
 
+.logoSection{
+    display: flex;
+}
+
+.logoSection p{
+    margin-top: 1.5em;
+    font-style: italic;
+}
+
 .logo{
     width: 5em;
     height: 5em;
