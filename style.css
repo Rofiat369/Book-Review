@@ -33,3 +33,10 @@ li{
     margin: 0 1.5em;
     font-size: 1.2em;
 }
+
+.BR{
+    border: 0.1em solid #f7dc6f;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    font-weight: bold;
+}
