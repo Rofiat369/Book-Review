@@ -37,6 +37,6 @@ li{
 .BR{
     border: 0.1em solid #f7dc6f;
     padding: 0.5em;
-    border-radius: 0.5em;
+    border-radius: 1em;
     font-weight: bold;
 }
