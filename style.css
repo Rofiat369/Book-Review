@@ -37,8 +37,7 @@ li{
 }
 
 .BR{
-    border: 0.1em solid #f7dc6f;
-    padding: 0 0.5em;
+    border: 0.1em solid #1b4f72;
+    padding: 0.1em 0.5em;
     border-radius: 1em;
-    font-weight: bold;
 }
