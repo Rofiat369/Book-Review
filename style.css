@@ -37,14 +37,12 @@ li{
 }
 
 .BR{
-    border: 0.1em solid #1b4f72;
-    padding: 0.1em 0.5em;
-    border-radius: 1em;
+    color: #1b4f72;
+    font-weight: bold;
 }
 
 .bookInfo{
     display: flex;
-    /* margin : 0 auto; */
     background: linear-gradient(0deg, rgba(27,79,114,1) 0%, rgba(247,220,111,1) 100%);
     padding: 0.5em;
 }
@@ -52,7 +50,6 @@ li{
 .book{
     width: 25em;
     height: 35em;
-    /* margin: 0.1em 3em; */
 }
 
 .book2{
