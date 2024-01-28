@@ -47,9 +47,24 @@ li{
     padding: 0.5em;
 }
 
+.bookImage{
+    width: 50%;
+}
+
+.info{
+    width: 50%;
+}
+
+.info p{
+    font-size: 1.3em;
+    line-height: 1.2em;
+    width: 70%;
+}
+
 .book{
     width: 25em;
     height: 35em;
+    padding-left: 20em;
 }
 
 .book2{
