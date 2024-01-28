@@ -44,17 +44,19 @@ li{
 
 .bookInfo{
     display: flex;
-    margin : 0 auto;
+    /* margin : 0 auto; */
+    background: linear-gradient(0deg, rgba(27,79,114,1) 0%, rgba(247,220,111,1) 100%);
+    padding: 0.5em;
 }
 
 .book{
     width: 25em;
     height: 35em;
-    margin: 0.1em 3em;
+    /* margin: 0.1em 3em; */
 }
 
 .book2{
-    width: 10em;
+    width: 8em;
     height: 8em;
 }
 
