@@ -44,15 +44,26 @@ li{
 
 .bookInfo{
     display: flex;
-    margin-top: 0.1em;
+    margin : 0 auto;
 }
 
 .book{
-    width: 35em;
+    width: 25em;
     height: 35em;
     margin: 0.1em 3em;
+}
+
+.book2{
+    width: 10em;
+    height: 8em;
 }
 
 .checked{
     color: #f7dc6f;
 }
+
+/* #f7dc6f */
+/* #f8c471 */
+/* #1b4f72 */
+/* #17a589 */
+/* #196f3d */
