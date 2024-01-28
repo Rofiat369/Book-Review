@@ -52,3 +52,7 @@ li{
     height: 35em;
     margin: 0.1em 3em;
 }
+
+.checked{
+    color: orange;
+}
