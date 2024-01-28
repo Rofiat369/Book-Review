@@ -47,3 +47,7 @@ li{
     height: 35em;
     margin: 0.1em 3em;
 }
+
+.bookInfo{
+    display: flex;
+}
