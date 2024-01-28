@@ -42,12 +42,13 @@ li{
     border-radius: 1em;
 }
 
+.bookInfo{
+    display: flex;
+    margin: 0.1em;
+}
+
 .book{
     width: 35em;
     height: 35em;
     margin: 0.1em 3em;
-}
-
-.bookInfo{
-    display: flex;
 }
