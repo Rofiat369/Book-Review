@@ -5,6 +5,7 @@
 
 .navBar{
 display: flex;
+background-color: #f7dc6f;
 }
 
 .logoSection{
@@ -12,6 +13,7 @@ display: flex;
 }
 
 .logoSection p{
+    margin-right: 1em;
     margin-top: 1.5em;
     font-style: italic;
     font-size: 1.2em;
@@ -36,7 +38,7 @@ li{
 
 .BR{
     border: 0.1em solid #f7dc6f;
-    padding: 0.5em;
+    padding: 0 0.5em;
     border-radius: 1em;
     font-weight: bold;
 }
