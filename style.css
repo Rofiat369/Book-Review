@@ -71,7 +71,7 @@ li{
     font-size: 1.5em;
 }
 
-.author{
+.author, .star{
     font-size: 1.2em;
     padding: 0.5em 0;
 }
