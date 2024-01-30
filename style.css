@@ -85,6 +85,11 @@ li{
     color: #1b4f72;
 }
 
+.summary{
+    font-size: 1.3em;
+    font-style: italic;
+}
+
 /* #f7dc6f */
 /* #f8c471 */
 /* #1b4f72 */
