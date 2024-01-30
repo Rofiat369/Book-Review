@@ -76,6 +76,11 @@ li{
     padding: 0.5em 0;
 }
 
+.secondBook{
+    display: flex;
+    padding: 0 1.5em;
+}
+
 .book2{
     width: 7em;
     height: 7em;
