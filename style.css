@@ -96,6 +96,7 @@ li{
     font-size: 1.3em;
     font-style: italic;
     padding: 0.5em 0 0.2em 0;
+    text-decoration: underline;
 }
 
 .paragraphSummary{
